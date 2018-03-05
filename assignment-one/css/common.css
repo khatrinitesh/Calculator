@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.container{
+	max-width: 1140px;
+	margin: 0 auto;
+}
+
+.content
+{
+	width:calc(100% - 70%);
+	background-color: orange;
+	padding: 20px;
+	float: left;
+}
